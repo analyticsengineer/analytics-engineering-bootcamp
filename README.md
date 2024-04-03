@@ -1,10 +1,12 @@
-![Github](https://github.com/analyticsengineer/analytics-engineer-bootcamp/assets/83256563/0735036b-7601-41ea-b3db-e07e15aa1431)
+
+![Github](https://github.com/analyticsengineer/analytics-engineering-bootcamp/assets/83256563/206c12ca-d48b-4b95-9641-7af3b07b9e3b)
 
 This is a bootcamp project from Udemy [view course video](https://www.udemy.com/share/105KXo3@Zo3NAPsUcan-xc8sLojyY5oCkeG1nmHzR-Y-FBYlBi6py4DDO2hz2RwFh8NjBldNbg==/)
 
 ERD Diagram
 
-![Screenshot 2024-03-23 112746](https://github.com/analyticsengineer/analytics-engineer-bootcamp/assets/83256563/1f927ff7-a54d-4a5c-b0a9-bb28e637d589)
+![Screenshot 2024-03-23 112746](https://github.com/analyticsengineer/analytics-engineering-bootcamp/assets/83256563/5d1e0f50-ac7c-4d38-ba58-983e9fb55c9b)
+
 
 This project was all about moving data from mySQl to BigQuery then transforming the data with dbt for analytics purpose. 
 
