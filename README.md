@@ -11,3 +11,11 @@ This project was all about moving data from mySQl to BigQuery then transforming 
 In this bootcamp we were taught **Bus MAtrix** for understanding **Kimball's Methodology** here is a link to my completed [Bus Matrix](https://docs.google.com/spreadsheets/d/1TJfo81_6C8d3j-KG3sLmTaBXvAbXIfMykLEDJOQ6n5A/edit?usp=sharing) on googlesheet for this project.
 
 The dataset used for this project is the **Northwind dataset** it is uploaded to this repository with the ERD logical, conceptual, and physical designs.
+
+Read my blog post for more understanding on this project.
+
+[Read "Becoming an Analytics Engineer I"](https://medium.com/@anuoluwapods/becoming-an-analytics-engineer-i-e6ea9a51e59e?source=your_stories_page-------------------------------------)
+
+[Read "Becoming an Analytics Engineer II"](https://medium.com/@anuoluwapods/becoming-an-analytics-engineer-ii-95df5df10d35?source=your_stories_page-------------------------------------)
+
+[Read "Becoming an Analytics Engineer III"](https://medium.com/@anuoluwapods/becoming-an-analytics-engineer-iii-d2515f176868?source=your_stories_page-------------------------------------)
